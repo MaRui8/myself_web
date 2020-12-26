@@ -1,6 +1,6 @@
 package com.mr.service.impl;
 
-import com.mr.LanguageEnum;
+import com.mr.constant.LanguageEnum;
 import com.mr.result.BaseResult;
 import com.mr.result.ResultEnum;
 import com.mr.service.MailService;
