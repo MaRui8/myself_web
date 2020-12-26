@@ -1,6 +1,6 @@
 package com.mr.result;
 
-import com.mr.LanguageEnum;
+import com.mr.constant.LanguageEnum;
 
 /**
  * @author Mr

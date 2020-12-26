@@ -1,4 +1,4 @@
-package com.mr;
+package com.mr.constant;
 
 /**
  * @author Mr
